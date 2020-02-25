@@ -1,6 +1,5 @@
 ---
 sagify:
-
   train:
     input_s3_dir: s3://demo071019/data
     output_s3_dir: s3://demo071019/output
